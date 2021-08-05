@@ -1,0 +1,13 @@
+{
+  "name": "her-story-automate",
+  "version": "1.0.0",
+  "description": "Script to achieve 100% database view on game \"her story\"",
+  "main": "index.js",
+  "author": "CharukaHS",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "robotjs": "^0.6.0"
+  },
+  "devDependencies": {}
+}
