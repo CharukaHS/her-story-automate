@@ -1,6 +1,7 @@
 # Her Story, Detective Chief Inspector achievement
 
-Script to achieve "Detective Chief Inspector" in [Her Story](https://store.steampowered.com/app/368370/Her_Story/)
+Script to achieve "Detective Chief Inspector" in [Her Story](https://store.steampowered.com/app/368370/Her_Story/)  
+Have any issues? DM me yxka#9995  
 
 ## Prerequisite
 
